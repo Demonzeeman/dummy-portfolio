@@ -29,7 +29,3 @@ menu_item.forEach((item) => {
     mobile_menu.classList.toggle("active");
   });
 });
-
-function test1(){
-  return 1;
-}
